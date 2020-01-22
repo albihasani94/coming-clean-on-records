@@ -1,5 +1,4 @@
-//usr/bin/env jbang "$0" "$@" ; exit $?
-// JAVAC_OPTIONS --enable-preview -source 14 -Xlint:preview
+//JAVAC_OPTIONS --enable-preview -source 14 -Xlint:preview
 //JAVA_OPTIONS --enable-preview
 package play.with.records;
 
